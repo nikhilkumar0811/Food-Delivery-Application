@@ -13,13 +13,17 @@
 <p align="center">
     <br> 
 </p>
-# 📝 Table of Contents
+
+
+ 📝 Table of Contents
 About
 Getting Started
 Pages
 Installing
 Deployment
-# 🧐 About <a name = "about"></a>
+
+
+#🧐 About <a name = "about"></a>
 The Food Delivery Website is a responsive web application built using React.js, designed to provide a seamless food ordering experience. It includes essential features such as a homepage, menu browsing, cart management, mobile app promotion, and user authentication through login and signup popups.
 
 # 🏁 Getting Started <a name = "getting_started"></a>
@@ -35,22 +39,22 @@ Login and Signup Popups: Popup modals for secure user authentication.
 Clone the repository:
 
 bash
-Copy code
+Copy code:
 git clone https://github.com/your-username/your-repo-name.git
 Navigate to the project directory:
 
 bash
-Copy code
+Copy code:
 cd your-repo-name
 Install the dependencies:
 
 bash
-Copy code
+Copy code:
 npm install
 Start the development server:
 
 bash
-Copy code
+Copy code:
 npm start
 🚀 Deployment <a name = "deployment"></a>
 To deploy the project on a live system, you can use platforms like Netlify or Vercel. Follow their documentation for setting up continuous deployment directly from your GitHub repository.
