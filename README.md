@@ -13,16 +13,16 @@
 <p align="center">
     <br> 
 </p>
-📝 Table of Contents
+# 📝 Table of Contents
 About
 Getting Started
 Pages
 Installing
 Deployment
-🧐 About <a name = "about"></a>
+# 🧐 About <a name = "about"></a>
 The Food Delivery Website is a responsive web application built using React.js, designed to provide a seamless food ordering experience. It includes essential features such as a homepage, menu browsing, cart management, mobile app promotion, and user authentication through login and signup popups.
 
-🏁 Getting Started <a name = "getting_started"></a>
+# 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. For deployment information, see the Deployment section.
 
 📄 Pages <a name = "pages"></a>
