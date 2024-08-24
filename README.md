@@ -62,8 +62,8 @@ To deploy the project on a live system, you can use platforms like Netlify or Ve
 This README template provides a clear overview of your Food Delivery Website project and guides users through the installation and deployment process. You can customize it further based on specific details of your project.
 
 
-
-
+# ABOUT
+An intuitive and efficient food delivery platform built with React.js, featuring a seamless ordering experience with real-time updates. The website includes dedicated pages for browsing restaurants, viewing menu items, placing orders,, all designed to enhance user engagement and streamline the food delivery process."
 
 
 ![Tomato1](https://github.com/user-attachments/assets/c9b159e4-5017-43a1-b31f-5a2a0c326192)
