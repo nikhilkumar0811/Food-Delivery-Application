@@ -32,7 +32,7 @@ These instructions will help you get a copy of the project up and running on you
 - **Menu Page:** A categorized list of food items available for order.
 - **Mobile App Description Page:** Highlights the features and benefits of the mobile app version of the service.
 - **Cart Item Page:** Displays selected items in the cart with options to adjust quantities before checkout.
-- **Login and Signup Popups:** Popup modals for secure user authentication.
+- **Login and Signup Popups:** Popup modals for secure user authentication. 
 
 ## 🔧 Installing <a name = "installing"></a>
 
